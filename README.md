@@ -6,7 +6,7 @@ This assignment contaians two parts.
      2. Use the automated browsing to visit the Mars Temperature Data and scrape the data analyze it.
 
 Data Analysis:
-    After carefully acrape the data and anayze it the following are the findings.
+    After carefully scrape the data and anayze it the following are the findings.
 
     1. On average, the third month has the coldest minimum temperature on Mars, and the eighth month is the warmest. But it is always very cold there in human terms!
 
