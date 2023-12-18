@@ -1,5 +1,5 @@
 # Assignment 12 - Data-Collection-Challenge
-This assignment contaians two parts.
+This assignment contains two parts.
      1. Visit Mars News site and scrape the data.
            for this create a Beautiful Soup object and use it to extract text elements from the website.Extract the titles and preview text of the news articles that you scraped. Store the scraping results in Python data structures as follows:
            Store each title-and-preview pair in a Python dictionary and, give each dictionary two keys: title and preview.
